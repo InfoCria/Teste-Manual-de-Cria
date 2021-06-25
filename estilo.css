@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body {
+	width: 99%;
+	background: black;
+	font-family: 'Roboto', sans-serif;
+	/*! height: 807px; */
+}
+#background {
+	width: 98%;
+	height: 400px;
+	color: #57F28D;
+	background: black;
+	border-color: black;
+	border-top-width: 15px;
+	border-top-style: solid;
+	border-right-width: 15px;
+	/*! border-right-style: inset; */
+	/*! border-bottom-width: 15px; */
+	/*! border-bottom-style: solid; */
+	border-left-width: 15px;
+	border-left-style: solid;
+}
+#background2 {
+	width: 98%;
+	height: 400px;
+	color: red;
+	background: #260259;
+	border-color: #260259;
+	/*! border-top-width: 15px; */
+	/*! border-top-style: solid; */
+	border-right-width: 15px;
+	border-right-style: solid;
+	border-bottom-width: 15px;
+	border-bottom-style: solid;
+	border-left-width: 15px;
+	border-left-style: solid;
+}
+h1{
+	font-size: 135px;
+	text-align: inherit;
+	top: 4px;
+	position: absolute;
+	padding-left: 0px;
+	margin-left: 30px;
+	margin-right: auto;
+}
+section {
+	width: 100%;
+	height: 500px;
+	background: black;
+	color:#6E3DD9 ;
+}
+#saibamais {
+	width: 150px;
+	height: 130px;
+	float: right;
+	margin-bottom: 20px;
+	color: #57F28D;
+	position: relative;
+	bottom: 200px;
+	font-size: 42px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
+a{color: #57F28D;
+text-decoration: none;}
